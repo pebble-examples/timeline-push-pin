@@ -1,0 +1,19 @@
+{
+  "uuid": "ce0e040b-37a6-48ca-9ca9-099b9f14bae4",
+  "shortName": "app-push-pin",
+  "longName": "app-push-pin",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
