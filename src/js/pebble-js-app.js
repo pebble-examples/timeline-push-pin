@@ -12,7 +12,7 @@ Pebble.addEventListener('ready', function() {
     "layout": {
       "type": "genericPin",
       "title": "Example Pin",
-      "tinyIcon": "system://images/TIMELINE_PIN_TINY"
+      "tinyIcon": "system://images/SCHEDULED_EVENT"
     }
   };
 
