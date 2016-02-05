@@ -15,5 +15,6 @@
   },
   "resources": {
     "media": []
-  }
+  },
+  "enableMultiJS": true
 }
