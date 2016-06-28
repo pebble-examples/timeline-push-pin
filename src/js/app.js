@@ -1,4 +1,4 @@
-var timeline = require('timeline');
+var timeline = require('./timeline');
 
 var PIN_ID = "timeline-push-pin-test";
 
